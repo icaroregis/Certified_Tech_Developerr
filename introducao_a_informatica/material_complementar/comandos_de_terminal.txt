@@ -1,0 +1,9 @@
+terminal é uma interface gráfica que nos possibilita dar comandos para o computador.
+
+echo "" > nome-do-arquivo.txt => criar arquivo
+cls => limpar o terminal 
+rm [nome do arquivo] => remover um arquivo
+rm -r [nome da pasta] => remover a pasta e tudo que há dentro da pasta 
+selecionar o nome da pasta depois apertar com o botão direito do mouse => copiar e colar
+ls -R => listar as pastas filhas de uma pasta pai juntamente com os arquivos da pasta filha  
+pasta raiz... mv [nome da pasta antiga] [nome da pasta nova] => renomear uma pasta    

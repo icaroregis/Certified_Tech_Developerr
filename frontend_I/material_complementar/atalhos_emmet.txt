@@ -1,0 +1,11 @@
+atalhos => 
+ 
+ul>li*5 => lista não ordenada com cinco linhas 
+
+correção de codigos html => https://validator.w3.org/
+
+linkar links a outras tags... colocar o id com a mesma descrição na qual você quer levar a tela a ter foco 
+
+voltar para o topo => 
+
+<a href='#'>voltar para o topo</a> 

@@ -1,0 +1,5 @@
+figma :
+
+para fazer uma linha reta basta segurar o shift
+para copiar um elemento basta segurar o alt clicar e arrastar
+para repetir uma ação apertar contr + d

@@ -1,0 +1,13 @@
+.compras_mes {
+  list-style: none;
+}
+
+.imagens {
+  width: 60%;
+}
+
+.TitleMaster {
+  font-weight: 600;
+  font-size: 3rem;
+  color: green;
+}
