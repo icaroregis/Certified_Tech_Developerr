@@ -1,0 +1,27 @@
+/*
+podemos selecionar de tres formas: 
+1 classe
+2 id
+3 a propria tag 
+*/
+
+h1 {
+  font-size: 8rem;
+  color: black;
+}
+
+/* a classe tem prioridade sobre a tag */
+.tituloPrincipal {
+  color: red;
+}
+
+/*
+as li's herdam o tamanho do pai. O id tem prioridade sobre a tag e sobre a classe
+*/
+#listaCompras {
+  color: aquamarine;
+}
+
+.titleText {
+  font-family: sans-serif;
+}
