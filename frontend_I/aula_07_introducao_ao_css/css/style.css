@@ -5,6 +5,10 @@ podemos selecionar de tres formas:
 3 a propria tag 
 */
 
+body {
+  font-family: 'Poppins';
+}
+
 h1 {
   font-size: 8rem;
   color: black;
@@ -20,8 +24,4 @@ as li's herdam o tamanho do pai. O id tem prioridade sobre a tag e sobre a class
 */
 #listaCompras {
   color: aquamarine;
-}
-
-.titleText {
-  font-family: sans-serif;
 }
